@@ -1,6 +1,6 @@
 # UTS PEMROGRAMAN MOBILE1
-# NAMA : MOHAMAD HEGAR SUKMANA WIBOWO
-# NIM : 312210332
+# NAMA : YUDI FERMANA 
+# NIM : 312210321
 # KELAS : TI.22.A.3
 ## Soal
 ![Cuplikan layar 2023-11-12 190422](https://github.com/hegarr/utsmobile/assets/145521387/69afe72c-aacd-4090-8685-7b34913fb468)
